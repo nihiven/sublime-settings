@@ -1,0 +1,18 @@
+[
+	{
+		"args": null,
+		"command": "paste"
+	},
+	{
+		"args": null,
+		"command": "select_all"
+	},
+	{
+		"args": null,
+		"command": "unindent"
+	},
+	{
+		"args": null,
+		"command": "unindent"
+	}
+]

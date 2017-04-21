@@ -1,0 +1,40 @@
+[
+	{
+		"keys": ["ctrl+shift+g"],
+		"command": "todo_review",
+		"args": {
+			"open_files": true,
+			"open_files_only": true,
+			"render_include_folder": true,
+			"render_folder_depth": 5
+		}
+	},
+	{
+		"keys": ["ctrl+shift+."],
+		"command": "remove_trailing_whitespace"
+	},
+	{
+		"keys": ["ctrl+shift+,"],
+		"command": "expand_tabs",
+		"args": { "set_translate_tabs": true }
+	},
+	{
+		"keys": ["ctrl+shift+/"],
+		"command": "set_setting",
+		"args":
+		{
+			"setting": "color_scheme",
+			"value": "Packages/sublime-solarized/Solarized (dark).tmTheme"
+		}
+	},
+	{
+		"keys": ["ctrl+shift+\\"],
+		"command": "set_setting",
+		"args":
+		{
+			"setting": "color_scheme",
+			"value": "Packages/sublime-solarized/Solarized (light).tmTheme"
+		}
+	}
+
+]
